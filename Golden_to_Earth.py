@@ -11,4 +11,3 @@ with open(filename, "r") as f:
         else:
             converted_line.insert(2, str(count))  # insert between 2nd and 3rd column
             print('\t'.join(converted_line))  # join them and print them with tab delimiter
-© 2020 GitHub, Inc.
