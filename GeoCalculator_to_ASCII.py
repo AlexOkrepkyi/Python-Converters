@@ -1,5 +1,6 @@
 import sys
 
+
 filename = input()
 
 with open(filename, "r") as f:
